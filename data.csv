@@ -1,0 +1,6 @@
+birthday,name,email,tosend
+
+IMPORTANT: delete all lines below before writing your own data
+example of row:
+08/09,John,johnblahblah@gmail.com,False
+-- Date should be in above format (DD/MM)
